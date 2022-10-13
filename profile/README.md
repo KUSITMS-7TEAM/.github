@@ -3,23 +3,23 @@
 ### 발전의 첫 도약이 되는 피닛
 
 # ✨ Finit 피닛 ✨
-> Finit은 
+> Finit은 소비와 관련해 자신만의 목표치 설정과 올바른 습관 형성을 도와주는 플랫폼입니다.
 
 <img width="811" alt="스크린샷 2022-10-13 오전 12 24 06" src="https://user-images.githubusercontent.com/84445210/195637196-8258329d-daa8-4275-89c7-f9773bca1a2c.png">
 
 
 ## 📑 팀명 : 드7ㅏ자
-####R&R
+### R&R
 |분야|이름|포지|
 |:---:|:---:|:---:|
 |기획|윤혜정|...|
 |기획|이하연|...|
 |기획|최재웅|...|
 |디자이너|김시연|👩🏻‍🎨 프로토타입, 서비스 디자인 담당|
-|개발|김유정(덕성여대)|🖥 서버 개발 담당|
-|개발|김유정(서울여대)|🖥 안드로이드 개발 담당|
-|개발|박은비|🖥 서버 개발 담당|
-|개발|정채현|🖥 PM, 안드로이드 개발담당|
+|개발|[김유정(덕성여대)](https://github.com/yujeongkimm) |🖥 서버 개발 담당|
+|개발|[김유정(서울여대)](https://github.com/yuu-jeong)|🖥 안드로이드 개발 담당|
+|개발|[박은비](https://github.com/Park-EunBi)|🖥 서버 개발 담당|
+|개발|[정채현](https://github.com/chaehyuns)|🖥 PM, 안드로이드 개발담당|
 
 
 ## 📑 목적 및 필요성
@@ -154,13 +154,3 @@
 - 관련: 해당 commit에 관련된 이슈 번호
 - 참고: 참고할 이슈가 있는 경우 사용
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
