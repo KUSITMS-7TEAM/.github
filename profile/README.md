@@ -88,7 +88,8 @@
 
 
 ## 📑 비즈니스 모델
-<img width="811" alt="스크린샷 2022-10-13 오전 12 24 06" src="https://user-images.githubusercontent.com/84445210/195636157-2d28e9a4-72f2-490f-8cf7-a2cc84144416.png">
+<img width="1430" alt="image" src="https://user-images.githubusercontent.com/80222352/195955448-aac57ad5-2870-485a-bf1a-31506f52ff44.png">
+
 
 ## 📑 서비스 로고
 <img width="159" alt="스크린샷 2022-10-14 오전 12 24 46" src="https://user-images.githubusercontent.com/84445210/195638850-7e3e3545-c54a-414b-8e4d-b55dec5e945a.png">
