@@ -121,7 +121,8 @@
 - 데이터 관리는 Scale up, out이 간편하고 백업 기능이 편리한 RDS를 사용하여 텍스트 정보로 이루어진 데이터를 관리하고, 파일 서버의 역할을 할 수 있는 S3를 사용할 것입니다. 또한 RDS와 S3, Rest API를 사용하여 생성한 서버를 24시간 서비스하기 위해 EC2를 활용하여 서비스 배포를 진행할 것입니다.
 
 ## 📑 소프트웨어 아키텍처
-<img width="503" alt="스크린샷 2022-10-13 오후 5 49 51" src="https://user-images.githubusercontent.com/84445210/195549538-f7cf83c3-20d0-4678-a95d-33a94739bc6b.png">
+<img width="924" alt="소프트웨어 아키텍쳐" src="https://user-images.githubusercontent.com/84445210/203787856-dc5e40f0-26a4-4a7e-bc3a-4aa9b7ef1afa.png">
+
 
 ## 📑 주요기능 명세서
 ### 📎 기능 사항 ID
